@@ -1,6 +1,7 @@
 # Restaurant Inspections Project
 
 ![image](https://github.com/user-attachments/assets/7c016f6b-36b0-4ae3-bf70-beacceac4709)
+
 *I do not own the rights to this photo*
 
 ## **Business Problem:**
