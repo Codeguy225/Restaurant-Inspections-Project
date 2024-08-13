@@ -30,9 +30,17 @@ https://www.nyc.gov/assets/doh/downloads/pdf/rii/restaurant-grading-faq.pdf
 
 ## **NYC Inspection EDA:**
 
+![image](https://github.com/user-attachments/assets/e7c61d9f-1b1c-4e2c-a38a-21c89c43b7b4)
 
+![image](https://github.com/user-attachments/assets/671d829c-0f28-4ee5-8a47-1254a19b5939)
 
+![image](https://github.com/user-attachments/assets/1c8b8a20-58f3-4d48-b276-8f378d7cf3f3)
 
+![image](https://github.com/user-attachments/assets/80c2d8e3-471b-4970-87cc-973027f23b58)
+
+![image](https://github.com/user-attachments/assets/ec18a675-b1a7-4332-b0f3-386613331501)
+
+![image](https://github.com/user-attachments/assets/9ee029a3-65f0-476d-8d92-6baea85e9c36)
 
 
 ## **Describe Your Final Model**
