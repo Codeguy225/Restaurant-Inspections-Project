@@ -30,7 +30,7 @@ https://www.nyc.gov/assets/doh/downloads/pdf/rii/restaurant-grading-faq.pdf
 
 ## **Results**
 
-Unfortunately, there was no significant correlation found. Many different visualization tools such as matplotlib, seaborn, and pandas were used to display the data in a fun way that Non-Data Scientist can read. I included a Geospatial Visualization to show the complexity of my findings.
+Unfortunately, there was no significant correlation found. Many different visualization tools such as matplotlib, seaborn, and pandas were used to display the data in a way that Non-Data Scientist can read. I included a Geospatial Visualization to show the complexity of my findings in a fun way!
 
 ### Model 1
 
