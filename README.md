@@ -10,9 +10,9 @@ This dataset includes NYC restuarant inpection data for the last three years pri
 
 ## **Methods**
 
-- Using a API, I extracted Yelp data and merged it with health inspections data from city-wide inspections by the department of health in New York City for Pizza Resturants in Brooklyn.
-- I only included YELP data specifically for pizza restaurants in Brooklyn,NY. This helped to focus on a smaller dataset to search for correlation between the inspection scores and ratings.
-- The use of  feature engineering help to create multiple new columns in the dataset that help with gathering a more in-depth look into the data.
+- Using an API, I extracted Yelp data and merged it with Health Inspections data from city-wide inspections by the Department of Health in New York City for Pizza Resturants in Brooklyn.
+- I only included YELP data specifically for pizza restaurants in Brooklyn,NY because, this helped to focus on a smaller dataset to search for correlation between the inspection scores and ratings.
+- The use of feature engineering help to create multiple new columns in the dataset that help with gathering a more in-depth look into the data.
 - Hypothesis testing was used to find out whether or not there was any correlation between better inspections scores mean better ratings on Yelp. I used Z-scores to help identify any outliers and elimnated them before performing two different hypothesis tests.
 - I used multiple modeling techniques to represent the various aspects of my findings for Brooklyn Pizza Restaurants.
    
@@ -28,15 +28,19 @@ https://www.nyc.gov/site/doh/business/food-operators/letter-grading-for-restaura
 
 https://www.nyc.gov/assets/doh/downloads/pdf/rii/restaurant-grading-faq.pdf
 
+## **NYC Inspection EDA:**
+
+
+
+
+
+
+## **Describe Your Final Model**
+
 ## **Results**
 
 Unfortunately, there was no significant correlation found. Many different visualization tools such as matplotlib, seaborn, and pandas were used to display the data in a way that Non-Data Scientist can read. I included a Geospatial Visualization to show the complexity of my findings in a fun way!
 
-### Model 1
-
-### Model 2
-
-## **Describe Your Final Model**
 
 ## **Recommendations:**
 
