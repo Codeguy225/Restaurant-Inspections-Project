@@ -46,9 +46,6 @@ https://www.nyc.gov/assets/doh/downloads/pdf/rii/restaurant-grading-faq.pdf
 
 **Correlation Map between Ratings and Review_Counts**
 
-
-## **Describe Your Final Model**
-
 ## **Results**
 
 Unfortunately, there was no significant correlation found. Many different visualization tools such as matplotlib, seaborn, and pandas were used to display the data in a way that Non-Data Scientist can read. I included a Geospatial Visualization to show the complexity of my findings in a fun way!
