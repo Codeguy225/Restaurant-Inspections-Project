@@ -53,8 +53,22 @@ Unfortunately, there was no significant correlation found. Many different visual
 
 ## **Recommendations:**
 
-## **Limitations and Next Steps**
+Given that no significant correlation was found in your initial analysis, it is crucial to consider alternative approaches to uncover meaningful insights from your data. Here are some steps to enhance your analysis and visualization efforts:
 
+- Explore Non-Linear Relationships: Utilize polynomial regression or other non-linear models to identify potential relationships that simple linear correlations may miss.
+- Consider Regression Models: Implement different regression models to explore potential relationships more thoroughly. This includes testing various types of regression to identify which best fits the data.
+
+## **Limitations**
+
+- Heterogeneous Data Sources: Combining data from different sources or formats can be challenging and might introduce inconsistencies or errors if not carefully managed.
+- Computational Limitations: Large datasets or complex models may require significant computational resources, which might not always be available.
+
+## **Next Steps**
+
+- Increase Sample Size: If feasible, gather more data to improve the robustness and generalizability of your findings.
+- Ensure Representativeness: Verify that your sample is representative of the broader population or context you are studying.
+- Leverage Subject Matter Knowledge: Engage with domain experts to interpret the data in the context of real-world relevance. Their insights can guide the focus of further analysis and help identify critical variables or relationships.
+  
 ## **Link to Notebook:**
 
 https://github.com/Codeguy225/Restaurant-Inspections-Project
