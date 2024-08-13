@@ -40,7 +40,11 @@ https://www.nyc.gov/assets/doh/downloads/pdf/rii/restaurant-grading-faq.pdf
 
 ![image](https://github.com/user-attachments/assets/ec18a675-b1a7-4332-b0f3-386613331501)
 
+**Corelation Map between Ratings and Review_Counts**
+
 ![image](https://github.com/user-attachments/assets/9ee029a3-65f0-476d-8d92-6baea85e9c36)
+
+
 
 
 ## **Describe Your Final Model**
